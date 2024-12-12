@@ -4,7 +4,7 @@ In this section, I will list Data Analytics Projects briefly describing the tech
 
 # **Atliq Technologies Sales Insight**
 
-[Project Link](https://github.com/Amlanjyotilaha/portfolio_projects/tree/main/2.%20Sales%20Insight%20of%20Altiq)
+[Project Link](https://github.com/dhruba79/Portfolio-projects/tree/main/1.%20Sales%20Insight%20of%20Altiq)
 
 **Dashboard:** [Atliq Sales Insight](https://app.powerbi.com/view?r=eyJrIjoiNjk5MmZhNWYtYzcwOS00ZDQ3LTg0NzktNjIxMTk3Mzk1ZTFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
