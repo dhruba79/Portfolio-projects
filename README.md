@@ -19,7 +19,7 @@ In this section, I will list Data Analytics Projects briefly describing the tech
 
 # **Atliq Technologies HR Data Analysis**
 
-[Project Link](https://github.com/Amlanjyotilaha/portfolio_projects/tree/main/3.%20HRAnalytics%20Atliq)
+[Project Link](https://github.com/dhruba79/Portfolio-projects/tree/main/2.%20HRAnalytics%20Atliq)
 
 **Dashboard:**  [Atliq Technologies HR Data Analysis]( https://app.powerbi.com/view?r=eyJrIjoiNmE5MWNjMTItODE4NC00ZWEyLTk5NWQtNmM1OWQ3NTgwZTg4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
@@ -34,7 +34,7 @@ In this section, I will list Data Analytics Projects briefly describing the tech
 
 # **Electronic Store Sales & Buy Pattern Analysis**
 
-[Project Link](https://github.com/Amlanjyotilaha/portfolio_projects/tree/main/4.%20Python%20Sales%20Analysis)
+[Project Link](https://github.com/dhruba79/Portfolio-projects/tree/main/3.%20Python%20Sales%20Analysis)
 
 **Code:** [Electronic_Store.ipynb](https://github.com/Amlanjyotilaha/portfolio_projects/blob/main/4.%20Python%20Sales%20Analysis/Sales%20Analysis%20using%20Python.ipynb)
 
@@ -49,7 +49,7 @@ In this section, I will list Data Analytics Projects briefly describing the tech
 
 # **Adventure Work Cycles E-Commerce Data Analysis**
 
-[Project Link](https://github.com/Amlanjyotilaha/portfolio_projects/tree/main/5.%20Advanture%20Works)
+[Project Link](https://github.com/dhruba79/Portfolio-projects/tree/main/4.%20Advanture%20Works)
 
 **Dashboard:** [Adventure Work Cycle Insights](https://app.powerbi.com/view?r=eyJrIjoiNTNkNmYwYjUtMWZhNi00YzZmLTgwMjktZTRlMThiNzFiNjIzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
@@ -66,7 +66,7 @@ In this section, I will list Data Analytics Projects briefly describing the tech
 
 # Digital Music Store SQL_Analysis
 
-[Project Link](https://github.com/Amlanjyotilaha/portfolio_projects/tree/main/7.%20Music%20Store%20Analysis%20SQL)
+[Project Link](https://github.com/dhruba79/Portfolio-projects/tree/main/5.%20Music%20Store%20Analysis%20SQL)
 
 ### **Data Analysis for Digital Music Store using SQL**
 
@@ -81,7 +81,7 @@ This analysis will provide great insight to the stake holders to take right and 
 
 # PIZZA SALES ANALYSIS - SQL - EXCEL
 
-[Project Link](https://github.com/Amlanjyotilaha/portfolio_projects/tree/main/9.%20Pizza%20Sales%20SQL%20Excel)
+[Project Link](https://github.com/dhruba79/Portfolio-projects/tree/main/6.%20Pizza%20Sales%20SQL%20Excel)
 
 ## **Requirements**:
 **Client**: We would like to visualize various aspects of our Pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
@@ -100,7 +100,7 @@ This analysis will provide great insight to the stake holders to take right and 
 
 # ROAD ACCIDENT ANALYSIS - SQL - POWER BI - EXCEL
 
-[Project Link](https://github.com/Amlanjyotilaha/portfolio_projects/tree/main/11.%20Road%20Accident%20Analysis)
+[Project Link](https://github.com/dhruba79/Portfolio-projects/tree/main/7.%20Road%20Accident%20Analysis)
 
 ## **Problem Statement:**
 **Requirements:**
